@@ -12,9 +12,9 @@
 
 | Keterangan | Detail |
 | ---------- | ------ |
-| **Nama**   | *(isi nama lengkap)* |
-| **NIM**    | *(isi NIM)* |
-| **Kelas**  | *(isi kelas)* |
+| **Nama**   | *Putri Riyona Ibtisaamah* |
+| **NIM**    | *F1D02510131* |
+| **Kelas**  | *B* |
 
 ---
 
