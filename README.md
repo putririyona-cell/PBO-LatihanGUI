@@ -111,7 +111,8 @@ Ranking 1 : Juara 1, pertahankan!
 
 ```
 .
+├── README.md             # Dokumentasi
 ├── RankingSiswaGo.java   # Kode sumber utama (GUI + logika)
-├── screenshot-gui.png    # Tangkapan layar aplikasi
-└── README.md             # Dokumentasi
+└── Screenshot Hasil.png    # Tangkapan layar aplikasi
+
 ```
